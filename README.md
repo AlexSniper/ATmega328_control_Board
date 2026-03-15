@@ -44,6 +44,12 @@ Clock oscillator verified with oscilloscope.
 
 Board powered and tested using laboratory power supply.
 
+## Hardware Revision History
+
+v0.1 – Initial prototype PCB  
+v0.2 – Improved routing and component placement  
+v0.3 – Stable prototype, validated clock and power supply
+
 ## Author
 
 Oleksandr Surdushkin  
