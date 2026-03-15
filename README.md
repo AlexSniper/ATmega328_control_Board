@@ -9,7 +9,7 @@ Custom embedded control board designed around the ATmega328PU microcontroller.
 ![Board Assembly](images/board_assembly.png)
 
 ## Testing Setup
-![Board Testing](images/board_testing.png)
+![Board Testing](images/board_test.png)
 
 ## Clock Verification
 External 16 MHz crystal verified using oscilloscope.
