@@ -1,5 +1,6 @@
 # ATmega328 Control Board
 
+![ATmega328 Control Board](images/board_top.png)
 Custom embedded control board designed around the ATmega328PU.
 
 ## Features
