@@ -1,6 +1,6 @@
 # ATmega328 Control Board
 
-Custom embedded control board designed around the ATmega328PU microcontroller.
+Custom embedded control board based on the ATmega328PU microcontroller, designed in KiCad and compatible with Arduino firmware.
 
 ## Prototype Board
 ![ATmega328 Control Board](images/board_top.png)
