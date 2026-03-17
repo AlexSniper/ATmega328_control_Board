@@ -24,9 +24,6 @@ Board powered and tested using laboratory power supply.
 ## Power Testing
 Board powered and tested using laboratory power supply.
 
-![Power Test](images/power_test.png)
-Board powered and tested using laboratory power supply.
-
 ![Power Test](images/lcd_test.png).png)
 
 ### Features
