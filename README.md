@@ -24,10 +24,10 @@ Board powered and tested using laboratory power supply.
 ## Power Testing
 Board powered and tested using laboratory power supply.
 
-![Power Test](images/## Power Testing
+![Power Test](images/power_test.png)
 Board powered and tested using laboratory power supply.
 
-![Power Test](images/lcd test.png).png)
+![Power Test](images/lcd_test.png).png)
 
 ### Features
 - ATmega328PU microcontroller
