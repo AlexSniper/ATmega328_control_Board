@@ -21,8 +21,9 @@ Board powered and tested using laboratory power supply.
 
 ![Power Test](images/power_test.png)
 
-## Power Testing
-Board powered and tested using laboratory power supply.
+## LCD Interface Test
+16×2 LCD connected to the ATmega328 board to verify digital IO functionality and firmware operation.
+Display output confirms correct microcontroller operation.
 
 ![Power Test](images/lcd_test.png).png)
 
