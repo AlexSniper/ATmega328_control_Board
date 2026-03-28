@@ -58,5 +58,4 @@ v0.3 – Stable prototype, validated clock and power supply
 
 ## Author
 
-Oleksandr Surdushkin  
 AL Robotics
